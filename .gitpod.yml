@@ -10,3 +10,7 @@ ports:
 tasks:
   - init: echo 'init script' # runs during prebuild
     command: echo 'start script'
+
+vscode:
+  extensions:
+    - denoland.vscode-deno@2.2.3:BofWpsm68ecNqE/lm/lStw==
